@@ -1,4 +1,4 @@
-# Project9_1activiti
+# AD_ex9_1activiti
 
 # 라디오 버튼 액티비티 예제
 
